@@ -3,7 +3,8 @@
 A Markdown file of our collective coding books available for sharing within Girls Coding Club, Houston =)!
 
 - [ ] Book available for "checkout"
-- [x] Book is checked out for now!
+- [x] Request book for pick up at next Girls Coding Club
+- [x] ~~Book is checked out for now!~~
 
 ----
 
@@ -11,7 +12,7 @@ A Markdown file of our collective coding books available for sharing within Girl
 
 ### General
 
-- [x] [**Code**: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)
+- [x] ~~[**Code**: The Hidden Language of Computer Hardware and Software](http://www.amazon.com/Code-Language-Computer-Hardware-Software/dp/0735611319)~~
 
   A book that explains how we talk to mechanical and electrical devices.
 
